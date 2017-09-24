@@ -2,7 +2,8 @@ title: shell脚本编程
 tags:
   - linux
   - shell
-categories: []
+categories:
+  - shell
 author: chenm
 date: 2017-09-23 16:18:00
 ---
